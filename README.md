@@ -1,0 +1,2 @@
+# Navoiy
+navoiyeco
